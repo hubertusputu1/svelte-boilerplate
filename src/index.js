@@ -1,3 +1,4 @@
+import "@babel/polyfill";
 import App from './Containers/App/index.svelte';
 import './Assets/styles/global.scss';
 
