@@ -2,8 +2,10 @@
   import { count } from "../../Stores/index";
 </script>
 
-<style src="./style.scss">
-
+<style>
+  h1 {
+    color: blue;
+  }
 </style>
 
 <h1>The count is {$count}</h1>
